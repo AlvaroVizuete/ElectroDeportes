@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="file:XSLT/XSLTClasificacion.xslt"?>
+<?xml-stylesheet type="text/xsl" href="XSLT/XSLTClasificacion.xslt"?>
 <clasificacion>
 <equipo>
 <puestoclasi>Primero</puestoclasi>
