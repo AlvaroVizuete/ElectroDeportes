@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="XSLT/XSLTParticipantes.xslt"?>
 <participantesesports>
 <participante>
-<nombre>Julio</nombre>
-<apellidos>Romero</apellidos>
+<nombre>Javier</nombre>
+<apellidos>Casper</apellidos>
 <liga>Chulinger</liga>
 <categoria>Profesional</categoria>
 </participante>
@@ -14,8 +14,8 @@
 <categoria>Profesional</categoria>
 </participante>
 <participante>
-<nombre>Daniel</nombre>
-<apellidos>Vicente</apellidos>
+<nombre>Vicente</nombre>
+<apellidos>Vizuete</apellidos>
 <liga>Chulinger</liga>
 <categoria>Profesional</categoria>
 </participante>
@@ -26,8 +26,8 @@
 <categoria>Novato</categoria>
 </participante>
 <participante>
-<nombre>Javier</nombre>
-<apellidos>Casper</apellidos>
+<nombre>Gruano</nombre>
+<apellidos>Gromero</apellidos>
 <liga>Hierro</liga>
 <categoria>Novato</categoria>
 </participante>
