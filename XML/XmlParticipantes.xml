@@ -20,9 +20,9 @@
 <categoria>Profesional</categoria>
 </participante>
 <participante>
-<nombre>Juan</nombre>
-<apellidos>Fernandez</apellidos>
-<liga>Plata</liga>
+<nombre>Daniel</nombre>
+<apellidos>Barroso</apellidos>
+<liga>Bronce</liga>
 <categoria>Novato</categoria>
 </participante>
 <participante>
@@ -32,9 +32,9 @@
 <categoria>Novato</categoria>
 </participante>
 <participante>
-<nombre>Encherto</nombre>
-<apellidos>Fernandez</apellidos>
-<liga>Oro</liga>
-<categoria>Novato</categoria>
+<nombre>David</nombre>
+<apellidos>Berron</apellidos>
+<liga>Madera</liga>
+<categoria>Principiante</categoria>
 </participante>
 </participantesesports>
