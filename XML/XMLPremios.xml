@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:XSLT/XSLTPremios.xslt"?>
+<PremiosEsports>
+		<Premio>
+			<nombre>COPAPACO</nombre>
+			<descripcion>Copa Obtenida por ganar al Legendario XPACO</descripcion>
+			<material>Aluminio</material>
+			<premio>100000&#8364;</premio>
+			<foto>../Imagenes/Trofeo2.svg</foto>
+		</Premio>
+		<Premio>
+			<nombre>COPAGUERRERA</nombre>
+			<descripcion>Copa Obtenida por ser el mejor Guerrero</descripcion>
+			<material>Marmól</material>
+			<premio>700000&#8364;</premio>
+			<foto>../Imagenes/Trofeo1.svg</foto>
+		</Premio>
+		<Premio>
+			<nombre>GODCOUP</nombre>
+			<material>Gold</material>
+			<descripcion>Only the gods can have this coup</descripcion>
+			<premio>100000&#8364;</premio>
+			<foto>../Imagenes/Trofeo4.svg</foto>
+		</Premio>
+		<Premio>
+			<nombre>CarrefourCOUP</nombre>
+			<material>Bronce</material>
+			<descripcion>2x1 en Copas</descripcion>
+			<premio>400000&#8364;</premio>
+			<foto>../Imagenes/Trofeo3.svg</foto>
+		</Premio>
+</PremiosEsports>

@@ -1,0 +1,7 @@
+<!ELEMENT PremiosEsports (Premio+)>
+<!ELEMENT Premio (nombre | descripcion | material | premio | foto)+>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT material (#PCDATA)>
+<!ELEMENT premio (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>

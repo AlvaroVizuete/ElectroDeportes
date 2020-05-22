@@ -1,0 +1,6 @@
+<!ELEMENT clasificacion (equipo+)>
+<!ELEMENT equipo (puestoclasi, nombre, numparticipantes, juego)>
+<!ELEMENT puestoclasi (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT numparticipantes (#PCDATA)>
+<!ELEMENT juego (#PCDATA)>

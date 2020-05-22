@@ -1,0 +1,6 @@
+<!ELEMENT eventoesports (torneo+)>
+<!ELEMENT torneo (nombre, localidad, premio, foto)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT localidad (#PCDATA)>
+<!ELEMENT premio (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>

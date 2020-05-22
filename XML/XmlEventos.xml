@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:XSLT/XSLTEventos.xslt"?>
+<eventoesports>
+		<torneo>
+			<nombre>TorneoPaco</nombre>
+			<localidad>Murcia</localidad>
+			<premio>3000</premio>
+			<foto>../Imagenes/TorneoPaco.svg</foto>
+		</torneo>
+		<torneo>
+			<nombre>TorneoFighter</nombre>
+			<localidad>Madrid</localidad>
+			<premio>700000</premio>
+			<foto>../Imagenes/TorneosFig.svg</foto>
+		</torneo>
+		<torneo>
+			<nombre>Tourney of gods</nombre>
+			<localidad>Londres</localidad>
+			<premio>100000</premio>
+			<foto>../Imagenes/TorneoIngles.svg</foto>
+		</torneo>
+		<torneo>
+			<nombre>Torneo Carrefour</nombre>
+			<localidad>Barcelona</localidad>
+			<premio>400000</premio>
+			<foto>../Imagenes/CarrefourEsports2018.svg</foto>
+		</torneo>
+</eventoesports>

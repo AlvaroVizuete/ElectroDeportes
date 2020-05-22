@@ -1,0 +1,30 @@
+{
+	"eventoesports": {
+		"torneo": [
+			{
+				"nombre": "TorneoPaco",
+				"localidad": "Murcia",
+				"premio": "3000",
+				"foto": "../../Imagenes/TorneoPaco.svg"
+			},
+			{
+				"nombre": "TorneoFighter",
+				"localidad": "Madrid",
+				"premio": "700000",
+				"foto": "../../Imagenes/TorneosFig.svg"
+			},
+			{
+				"nombre": "Tourney of gods",
+				"localidad": "Londres",
+				"premio": "100000",
+				"foto": "../../Imagenes/TorneoIngles.svg"
+			},
+			{
+				"nombre": "Torneo Carrefour",
+				"localidad": "Barcelona",
+				"premio": "400000",
+				"foto": "../../Imagenes/CarrefourEsports2018.svg"
+			}
+		]
+	}
+}

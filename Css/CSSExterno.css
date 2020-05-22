@@ -1,0 +1,135 @@
+
+        @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+        header{background-image: url(../Imagenes/CarrefourEsports2018.svg);
+                background-repeat: no-repeat;
+                background-size: contain;
+                background-position: left;
+                height: 5rem;
+                }
+        nav {
+            padding: 12px;
+            background-image: url(../Imagenes/Bannerganadores.svg);
+            margin-top: 1rem;
+            
+        }
+
+        .navegadores {
+            margin-left: 1rem;
+            text-decoration: none;
+            background-color: chartreuse;
+            padding: 0.0625rem;
+            border-radius: 0.5rem;
+            margin: 3rem;
+            border-style: solid;
+            
+            
+        }
+
+        .divgrande {
+            display: flex;
+            margin-left: 2em;
+            
+
+        }
+
+        body {
+            text-align: center;
+            background-image: url(../Imagenes/BannerFondo.svg);
+            font-family: 'Balsamiq Sans', cursive;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+
+
+        .navegadores2 {
+            border-radius: 0.5rem;
+            margin: 3rem;
+            border-style: solid;
+            display: block;
+            color: white;
+            text-decoration: none;
+            
+            
+
+        }
+
+         a:hover {
+            background-color: skyblue
+        }
+
+        .titulo {
+            color: white;
+            font-size: 
+        }
+        
+        .titulo2{color: white}
+
+        .fotodiv {
+            background-image: url(../Imagenes/Banneresports.svg);
+            color: white;
+        }
+
+        .abajo {
+            height: 15rem;
+            float: left;
+            text-align: center;
+            
+        }
+        
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.content {
+  margin-left: 75px;
+  font-size: 30px;
+}
+
+.haciaderecha{margin-left: 5rem}
+
+.bloque{margin-left: 4rem}

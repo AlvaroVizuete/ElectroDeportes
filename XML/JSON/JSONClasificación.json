@@ -1,0 +1,54 @@
+{
+	"clasificacion": {
+		"equipo": [
+			{
+				"puestoclasi": "Primero",
+				"nombre": "AGUSTEAM",
+				"numparticipantes": "10",
+				"juego": "GTAV"
+			},
+			{
+				"puestoclasi": "Segundo",
+				"nombre": "CALVALAND",
+				"numparticipantes": "10",
+				"juego": "GTAV"
+			},
+			{
+				"puestoclasi": "Primero",
+				"nombre": "Vandal",
+				"numparticipantes": "5",
+				"juego": "Valorant"
+			},
+			{
+				"puestoclasi": "Segundo",
+				"nombre": "Phantom",
+				"numparticipantes": "5",
+				"juego": "Valorant"
+			},
+			{
+				"puestoclasi": "Primero",
+				"nombre": "G2",
+				"numparticipantes": "5",
+				"juego": "LOL"
+			},
+			{
+				"puestoclasi": "Segundo",
+				"nombre": "Fnatic",
+				"numparticipantes": "5",
+				"juego": "LOL"
+			},
+			{
+				"puestoclasi": "Primero",
+				"nombre": "CALVALAND",
+				"numparticipantes": "12",
+				"juego": "Minecraft"
+			},
+			{
+				"puestoclasi": "Segundo",
+				"nombre": "ATEAM",
+				"numparticipantes": "12",
+				"juego": "Minecraft"
+			}
+		]
+	}
+}
