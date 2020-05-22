@@ -26,9 +26,12 @@
 
 				.titulo {
 					text-align: center;
-					font-size: 30px;
+					font-size: 50px;
 					color: white;
 				}
+				.titulo2{text-align: center;
+					font-size: 40px;
+					color: white;}
 
 				body {
 					background-image: url(../Imagenes/BannerFondo.svg);
@@ -68,16 +71,15 @@
 		<body>
 			<main>
 				<header>
-					<h2 class="titulo">Participantes Esports</h2>
+					<h1 class="titulo">Participantes Esports</h1>
 				</header>
 				<nav>
 					<a href="XmlEventos.xml" class="navegadores">Torneos</a>
 					<a href="../index.html" class="navegadores">Página Principal</a>
 					<a href="XmlClasificacion.xml" class="navegadores">Clasificación</a>
 					<a href="XMLPremios.xml" class="navegadores">Premios</a>
-					<a href="" class="navegadores">Más Información</a>
 				</nav>
-
+				<h2 class="titulo2">Mire Aqui Los Participantes y sus Categorías</h2>
 				<table border="2" class="tabla">
 					<tr>
 						<th>Nombre</th>

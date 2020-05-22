@@ -31,9 +31,12 @@
 
 				.titulo {
 					text-align: center;
-					font-size: 30px;
+					font-size: 50px;
 					color: white;
 				}
+				.titulo2{text-align: center;
+					font-size: 40px;
+					color: white;}
 
 				body {
 					background-image: url(../Imagenes/BannerFondo.svg);
@@ -80,8 +83,8 @@
 					<a href="XmlParticipantes.xml" class="navegadores">Participantes</a>
 					<a href="XmlClasificacion.xml" class="navegadores">Clasificación</a>
 					<a href="XMLPremios.xml" class="navegadores">Premios</a>
-					<a href="" class="navegadores">Más Información</a>
 				</nav>
+				<h2 class="titulo2">Consulte Aqui los Proximos Torneos</h2>
 				<table border="2" class="tabla">
 					<tr>
 						<th>Torneo</th>

@@ -26,14 +26,17 @@
 				}
 
 				td {
-					font-size: 30px;
+					font-size: 25px;
 				}
 
 				.titulo {
 					text-align: center;
-					font-size: 40px;
+					font-size: 50px;
 					color: white;
 				}
+				.titulo2 {text-align: center;
+					font-size: 35px;
+					color: white;}
 
 				body {
 					background-image: url(../Imagenes/BannerFondo.svg);
@@ -78,9 +81,8 @@
 					<a href="XmlParticipantes.xml" class="navegadores">Participantes</a>
 					<a href="XmlClasificacion.xml" class="navegadores">Clasificación</a>
 					<a href="../index.html" class="navegadores">Página Principal</a>
-					<a href="" class="navegadores">Más Información</a>
 				</nav>
-				<h2 class="titulo">Consulte Aqui Los Premios</h2>
+				<h2 class="titulo2">Consulte Aqui Los Premios</h2>
 				<table border="2" class="tabla">
 					<tr>
 						<th>Nombre</th>
